@@ -5,6 +5,5 @@ public static void main(String[] args) {
 		System.out.println("vinayaga");vzvcvxcvx
 		ddvsdgsdg
 		dgsdgsdgdgsdgsg
-		adgdsgsdgaafafafasgsnnnnjnnjnjnjj
 }
 }
