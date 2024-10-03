@@ -1,0 +1,57 @@
+1.Angular local setup & Angular CLI & Folder structure - completed
+
+2.How Angular application bootstrap - completed
+ 
+3.Angular Module, Feature module, Component  - completed
+ 
+4.Lifecycle Hooks - completed
+ 
+5.View Encapsulation - completed
+ 
+6.Modules - completed
+ 
+7.Data binding - completed
+ 
+8.Angular Pipes - completed
+ 
+9.Directives - completed
+ 
+10.Angular Forms - completed
+ 
+11.Typescript basics - completed
+ 
+12.RxJS basics  - completed
+ 
+13.Routing - completed
+ 
+14.Communication between components - completed
+ 
+15.Lazy loading - completed
+ 
+16.Dependency Injection/ Services - completed
+ 
+17.API integration - completed
+ 
+18.Interceptor - completed
+ 
+19.Authentication 
+ 
+20.Authorization
+ 
+21.Guard - completed
+ 
+22.Angular Material - completed
+ 
+23.How to use third party library - completed
+ 
+24.Unit testing - partially completed - (Karma Jasmine or Jest)
+ 
+25.Angular Library Concept
+ 
+26.Standalone Component - completed
+ 
+27.Signals - completed
+ 
+28.ng-content, ng-template, ng-template-outlet, Internationalization, - completed
+
+29.Service Workers & PWA, Web Workers, SSR
